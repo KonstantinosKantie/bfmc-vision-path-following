@@ -1,6 +1,6 @@
 """
 Graph-based path following using a Stanley Controller.
-Developed in collaboration with NLattas and Vaios Kakae.
+Developed in collaboration with NLattas and vaioskak.
 """
 import math
 import numpy as np
