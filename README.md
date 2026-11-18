@@ -2,18 +2,37 @@
 
 This repository showcases my core software, computer vision, and embedded systems contributions to our team's autonomous vehicle for the **Bosch Future Mobility Challenge (BFMC)**. My work focused on **real-time object & depth detection (YOLOv8 TensorRT + RealSense)**, **graph-based odometry path following (Stanley Controller)**, and **edge deployment on NVIDIA Jetson (Linux)**.
 
+
+
+
 ---
 
 ## 🎥 System Demos
 
 ### 1. Stop Sign Detection & Depth-Based Braking (YOLOv8 + RealSense)
-*(Σύρε εδώ το `stop_sign_demo.mp4`)*
+*
+
+https://github.com/user-attachments/assets/9a92c726-364b-47f7-a30d-f8c2eeddc5cf
+
+*
 
 ### 2. Crosswalk / Pedestrian Detection
-*(Σύρε εδώ το `crosswalk_demo.mp4`)*
+*
+
+https://github.com/user-attachments/assets/e4f74ce0-bd54-4628-b1d4-6f764438df57
+
+
+
+https://github.com/user-attachments/assets/ae91b01e-be04-4756-8b22-0153671f4cda
+
+*
 
 ### 3. Odometry Path Following on Difficult Turns (Stanley Controller)
-*(Σύρε εδώ το `turn_path_following.mp4`)*
+*
+
+https://github.com/user-attachments/assets/65b990b0-82c4-43ff-bd4a-2a95badcfb53
+
+*
 
 ---
 
