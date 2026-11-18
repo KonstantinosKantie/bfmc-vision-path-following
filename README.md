@@ -30,7 +30,7 @@ This repository showcases my core software, computer vision, and embedded system
 * **Control:** Feeds the errors into a **Stanley Controller** to output smooth, bounded steering commands.
 * *Collaboration:* Developed in collaboration with **NLattas** (primary contributor to the graph coordinate utilities) and **Vaios Kakae**.
 
-![BFMC Track Graph with Nodes](assets/TrackWithNodes.jpg)
+![BFMC Track Graph with Nodes](assets/lab_track_with_nodes.png)
 
 ### 3. Edge Deployment & Linux Administration (NVIDIA Jetson)
 * Set up, configured, and maintained the **Linux (Ubuntu / JetPack)** environment on the **NVIDIA Jetson** onboard computer.
